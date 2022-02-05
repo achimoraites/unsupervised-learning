@@ -1,7 +1,6 @@
 # Customer Segment Clusters
 Using data on the general population identify the core customer base for a mail-order sales company in Germany.
 
-Must give credit to Arvato for the data. Since the terms and conditions prohibited us from keeping the data, no data is provided in this repository.
 
 ## 📓 Files used
 
